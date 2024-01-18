@@ -84,8 +84,7 @@
 <h1 align="center">Github Stats</h1>
 
 <div align="center">
-[![GitHub Streak](https://streak-stats.demolab.com/?user=aditya-bansal-7&theme=highcontrast)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=aditya-bansal-7)](https://git.io/streak-stats)
  </div>
  
  

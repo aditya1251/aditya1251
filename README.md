@@ -28,7 +28,7 @@
 
 
 <a href="https://www.linkedin.com/in/aditya-bansal-581b2a267/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="https://www.instagram.com/aditya_bansal___/"><img src="https://img.shields.io/badge/-@michael201199-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="https://www.instagram.com/aditya_bansal___/"><img src="https://img.shields.io/badge/-@aditya_bansal___-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 <a href="mailto:adityabansalsafe@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://www.hackerrank.com/profile/adityabansal7"><img src="https://img.shields.io/badge/-HackerRank-E4405F?style=flat&logo=HackerRank&logoColor=white"/></a> &nbsp;
 <a href="https://leetcode.com/aditya-bansal-7/"><img src="https://img.shields.io/badge/-LeetCode-E4405F?style=flat&logo=LeetCode&logoColor=white"/></a> &nbsp;
@@ -36,14 +36,13 @@
 -----  
 
 
-<h1 align="center">Repositories to contribute in Hacktoberfest🤩</h1>
+<h1 align="center">Repositories to contribute🤩</h1>
 
 | Repository Name      | Description | 
 | :---:        |    :----   |  
-| [Competition List](https://github.com/aditya-bansal-7/Competitions-and-Programs-List) | List of competitions for college students to participate and to enhance their skills. |
-| [Free courses with certificate](https://github.com/aditya-bansal-7/Free-courses-with-Certificates) | This repository contains list of free courses with certificates. Go ahead and add more courses in your knowledge. |
-| [To-Do-List](https://github.com/aditya-bansal-7/To-Do-List)    | This is a javascript TO-Do-List app , you can contribute to this project by adding some extra feature or by improving UI/UX.      
-| [Portfolio Collection](https://github.com/aditya-bansal-7/Portfolio-Collection)      | This repository contains collection of portfolio's . You can add your own repository.
+| [Guess-Game-Website](https://github.com/aditya-bansal-7/Guess-Website) | A Guessing game website where users can guess numbers and have fun |
+| [youtube-downloder](https://github.com/aditya-bansal-7/youtube-downloder) | This is a tool which can help you to download youtube video in you mobile. |
+| [Binary-x Robot](https://github.com/aditya-bansal-7/new_robot)    | This a bot which help in managing event in telegram community |
 
 
 

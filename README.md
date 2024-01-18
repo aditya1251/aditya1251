@@ -82,10 +82,6 @@
 
 
 <h1 align="center">Github Stats</h1>
-
-<div align="center">
-[![GitHub Streak](https://streak-stats.demolab.com/?user=aditya-bansal-7)](https://git.io/streak-stats)
- </div>
  
  
 <img align="left" alt="Aditya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aditya-bansal-7&&show_icons=true&theme=dark" width="50%" />

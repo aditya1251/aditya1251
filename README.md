@@ -14,25 +14,23 @@
 [![GitHub aditya-bansal-7](https://img.shields.io/github/followers/aditya-bansal-7?label=follow&style=social)](https://github.com/aditya-bansal-7)&nbsp;
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; Hello everyone,I'm 2022 pass out graduate with BTech CSE. Love to code  , exploring Data Science these days. I enjoy collaborating with people on works of similar interest. 
+💡 &nbsp; Hello everyone,I'm pursuing BTech CSE. Love to code  , exploring Data Structures these days. I enjoy collaborating with people on works of similar interest. 
 
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Machine learning and Data Science.\
-✍️ &nbsp;Apart from technical interests, I like dancing,watching movies, reading novels, playing Chess and badminton.\
+🌱 &nbsp;I'm on track for learning more about Web Development, Data Structures and Algorithm. \
+✍️ &nbsp;Apart from technical interests, I like video editing,watching movies, playing video games, badminton and basketball.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions \
-✉️ &nbsp;You can email me at aditya-bansal-7@gmail.com. I'll try to respond as soon as possible!\
-📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1v5f_6yPmzy0rJQyA_pXtUQ6s663wsk4i/view?usp=sharing) for more details about my work experience.
-
-### If my repository is helpful for you then [Nominate me for GitHub Star](https://stars.github.com/nominate/)
+✉️ &nbsp;You can email me at adityabansalsafe@gmail.com. I'll try to respond as soon as possible!\
+📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1kIr05Zeh7qngzgdXG988WqCUoKdf9OH8/view?usp=sharing) for more details about my work experience.
 
 -----
 ### 📫 &nbsp; How to reach me:
 
 
 
-<a href="https://www.linkedin.com/in/avinash-singh-071b79175/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="https://instagram.com/michael201199/"><img src="https://img.shields.io/badge/-@michael201199-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
-<a href="mailto:aditya-bansal-7@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-<a href="https://www.hackerrank.com/aditya-bansal-7"><img src="https://img.shields.io/badge/-HackerRank-E4405F?style=flat&logo=HackerRank&logoColor=white"/></a> &nbsp;
+<a href="https://www.linkedin.com/in/aditya-bansal-581b2a267/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="https://www.instagram.com/aditya_bansal___/"><img src="https://img.shields.io/badge/-@michael201199-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="mailto:adityabansalsafe@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+<a href="https://www.hackerrank.com/profile/adityabansal7"><img src="https://img.shields.io/badge/-HackerRank-E4405F?style=flat&logo=HackerRank&logoColor=white"/></a> &nbsp;
 <a href="https://leetcode.com/aditya-bansal-7/"><img src="https://img.shields.io/badge/-LeetCode-E4405F?style=flat&logo=LeetCode&logoColor=white"/></a> &nbsp;
 
 -----  

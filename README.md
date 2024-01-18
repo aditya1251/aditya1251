@@ -53,10 +53,10 @@
 </div>
 <div  align="center">
  
-<a href="https://aditya-bansal-7.github.io/Avinash-Singh/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aditya-bansal-7&repo=Avinash-Singh&show_icons=true&theme=great-gatsby" ></a>
-<a href="https://aditya-bansal-7.github.io/weather-app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aditya-bansal-7&repo=weather-app&show_icons=true&theme=great-gatsby" ></a>
-<a href="https://aditya-bansal-7.github.io/To-Do-List/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aditya-bansal-7&repo=To-Do-List&show_icons=true&theme=great-gatsby"></a>
-<a href="https://meme-generator-three-psi.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aditya-bansal-7&repo=MemeGenerator&show_icons=true&theme=great-gatsby"></a>
+<a href="https://aditya-bansal-7.github.io/Guess-Website/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aditya-bansal-7&repo=Guess-Website&show_icons=true&theme=great-gatsby" ></a>
+<a href="https://aditya-bansal-7.github.io/amazon-website/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aditya-bansal-7&repo=amazon-website&show_icons=true&theme=great-gatsby" ></a>
+<a href="https://t.me/yt_download_bnsl_bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aditya-bansal-7&repo=youtube-downloder&show_icons=true&theme=great-gatsby"></a>
+<a href="https://aditya-bansal-7.github.io/Aditya-Bansal/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aditya-bansal-7&repo=Aditya-Bansal&show_icons=true&theme=great-gatsby"></a>
 
 </div>
 
@@ -69,23 +69,10 @@
  
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/quora/quora-ar21.svg"></code>
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-   <code><img width="15%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
  
  
  -----
@@ -97,12 +84,11 @@
 <h1 align="center">Github Stats</h1>
 
 <div align="center">
-  
-[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=aditya-bansal-7&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=aditya-bansal-7&theme=highcontrast)](https://git.io/streak-stats)
 
  </div>
  
  
-<img align="left" alt="Avinash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aditya-bansal-7&&show_icons=true&theme=dark" width="50%" />
+<img align="left" alt="Aditya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aditya-bansal-7&&show_icons=true&theme=dark" width="50%" />
 <img alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-bansal-7&layout=compact&theme=dark" width="46%" />
 <br>
